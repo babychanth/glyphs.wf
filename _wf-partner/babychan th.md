@@ -18,7 +18,6 @@ mixer:
 ccid: 19
 alt-names: 
 ---
-* Drops codes on Twitch/Twitter
-* Posts codes in YouTube video descriptions/comments
-* Gift her 5 forma packs (IGN: xBabychanx)
+* Drops codes on Twitch/Twitter (often)
+* Posts codes in YouTube video descriptions/comments/or inside the videos
 * Twitch Subscription or Donations
